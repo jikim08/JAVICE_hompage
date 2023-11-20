@@ -321,6 +321,27 @@ nav.navbar.bootsnav .navbar-toggle i{color: #000000;}
     margin-left: 6px;
 }
 /*.ab-list-icon */
+.activity_images{
+    position: relative;
+    top: 30px;
+    left: 48px;
+    display: inline-block; 
+    width: 400px;
+    height: 400px;
+}
+
+.activity_image{
+    position: relative;
+    top: 30px;
+    left: 48px;
+}
+.activity_image img{
+    position: relative;
+    width: 400px;
+}
+.activity_image p{
+    font-size: 20px;
+}
 
 /*.single-about-img */
 
