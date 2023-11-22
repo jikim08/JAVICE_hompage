@@ -390,9 +390,9 @@ span.single-timeline-horizontal {
     display:  inline-block;
     background: #b2c1ce;
     height:  1px;
-    width: 380px;
+    width: 400px;
 }
-span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
+span.single-timeline-horizontal.spacial-horizontal-line {width: 200px;}
 /*.timeline-horizontal-border*/
 
 /*.education-horizontal-timeline*/
